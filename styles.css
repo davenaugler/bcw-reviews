@@ -1,0 +1,25 @@
+.top{
+    background-color: #EFEFEF;
+    color: #565656;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.pros{
+    background-color: #FF383F;
+    color: white;
+    font-size: 18px;
+}
+
+.cons{
+     background-color: #CAEBF2;
+     color: black;
+     font-size: 18px;
+
+}
+
+.wrapup{
+    background-color: #FF383F;
+    font-size: 18px;
+    color: white;
+}
